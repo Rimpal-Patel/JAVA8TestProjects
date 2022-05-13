@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db885fb0-2058-4ac4-a21d-e75e43bef9fc" name="Changes" comment="Commit for java test program">
+      <changelist_data name="Rimpal patel" email="rimpal" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AddIncrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ComparatorUsingLamada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FilterWithAgeAndDept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FilterWithSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FunctionalInterfaceUsingLamda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HighestAndLeastSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IterationListUsingLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SortingEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StaticAndDefaultMethodOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StreamWithCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThreadUsingLambda.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Rimpal patel" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2948gR7ukdDvwq0sp0WsVCo7YaA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "last_opened_file_path": "C:/Users/RJ/JAVA8TestProjects"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.IterationListUsingLambda">
+    <configuration name="ComparatorUsingLamada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComparatorUsingLamada" />
+      <module name="JAVA8TestProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalInterfaceUsingLamda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionalInterfaceUsingLamda" />
+      <module name="JAVA8TestProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IterationListUsingLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IterationListUsingLambda" />
+      <module name="JAVA8TestProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticAndDefaultMethodOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StaticAndDefaultMethodOperation" />
+      <module name="JAVA8TestProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadUsingLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadUsingLambda" />
+      <module name="JAVA8TestProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IterationListUsingLambda" />
+        <item itemvalue="Application.ComparatorUsingLamada" />
+        <item itemvalue="Application.ThreadUsingLambda" />
+        <item itemvalue="Application.StaticAndDefaultMethodOperation" />
+        <item itemvalue="Application.FunctionalInterfaceUsingLamda" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db885fb0-2058-4ac4-a21d-e75e43bef9fc" name="Changes" comment="" />
+      <created>1652361109803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652361109803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit for java test program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit for java test program" />
+  </component>
+</project>
